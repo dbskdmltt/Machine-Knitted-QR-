@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-contrib-python
+pyzbar
+zxing-cpp
+qrcode
+pillow

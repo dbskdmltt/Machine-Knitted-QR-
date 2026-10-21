@@ -1,0 +1,21 @@
+step,phase,load_label,v_mid_cm,recognized
+0,load,comb only,20.0,no
+1,load,40g,20.1,no
+2,load,90g,20.1,no
+3,load,90g+w1,20.5,no
+4,load,90g+w2,20.4,no
+5,load,w3,20.4,no
+6,load,w4,20.8,no
+7,load,w5,21.0,no
+8,load,w6,21.4,no
+9,load,w7,21.6,no
+10,load,w7+L1,22.1,no
+11,load,w7+L2,22.8,no
+12,unload,w7+L1,22.8,no
+13,unload,w7,22.5,no
+14,unload,w6,22.2,no
+15,unload,w4,22.1,no
+16,unload,w3,21.8,no
+17,unload,w2,21.6,no
+18,unload,w1,21.1,no
+19,unload,none,20.8,no
